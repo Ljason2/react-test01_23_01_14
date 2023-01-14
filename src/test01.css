@@ -1,0 +1,17 @@
+.wrap{
+    margin: 100px auto;
+    width: 700px;
+    height: 550px;
+    border: 2px solid black;
+}
+
+.wrap>p{
+display: flex;
+justify-content: space-around;
+margin: 50px auto 0;
+}
+
+button{
+    width: 80px;
+    height: 35px;
+}
